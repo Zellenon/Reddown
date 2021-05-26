@@ -1,3 +1,4 @@
+# REDDOWN HAS BEEN REPLACED BY LAZBANKPY
 # Reddown
 A photobashing collection creation and curation app. Assists the user in downloading, sifting through, and sorting images from subreddits of the desired theme and source material in bulk.
 
